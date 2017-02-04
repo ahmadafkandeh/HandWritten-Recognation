@@ -1,0 +1,28 @@
+D:\mine\projects\nural networks\HandWritten Recognation\SRC\testing HWDR\testing ne1 HWDR in Cs\testing ne1 HWDR in Cs\obj\x86\Debug\testing_ne1_HWDR_in_Cs.Form1.resources
+D:\mine\projects\nural networks\HandWritten Recognation\SRC\testing HWDR\testing ne1 HWDR in Cs\testing ne1 HWDR in Cs\obj\x86\Debug\testing_ne1_HWDR_in_Cs.Properties.Resources.resources
+D:\mine\projects\nural networks\HandWritten Recognation\SRC\testing HWDR\testing ne1 HWDR in Cs\testing ne1 HWDR in Cs\obj\x86\Debug\testing ne1 HWDR in Cs.csproj.GenerateResource.Cache
+D:\mine\projects\nural networks\HandWritten Recognation\SRC\testing HWDR\testing ne1 HWDR in Cs\testing ne1 HWDR in Cs\bin\Debug\testing ne1 HWDR in Cs.exe
+D:\mine\projects\nural networks\HandWritten Recognation\SRC\testing HWDR\testing ne1 HWDR in Cs\testing ne1 HWDR in Cs\bin\Debug\testing ne1 HWDR in Cs.pdb
+D:\mine\projects\nural networks\HandWritten Recognation\SRC\testing HWDR\testing ne1 HWDR in Cs\testing ne1 HWDR in Cs\obj\x86\Debug\testing ne1 HWDR in Cs.exe
+D:\mine\projects\nural networks\HandWritten Recognation\SRC\testing HWDR\testing ne1 HWDR in Cs\testing ne1 HWDR in Cs\obj\x86\Debug\testing ne1 HWDR in Cs.pdb
+D:\mine\projects\nural networks\HandWritten Recognation\SRC\testing HWDR\testing ne1 HWDR in Cs\testing ne1 HWDR in Cs\obj\x86\Debug\testing ne1 HWDR in Cs.csprojResolveAssemblyReference.cache
+D:\mine\projects\nural networks\HandWritten Recognation\SRC\testing HWDR\testing 01 HWDR in Cs\testing ne1 HWDR in Cs\obj\x86\Debug\testing ne1 HWDR in Cs.exe
+D:\mine\projects\nural networks\HandWritten Recognation\SRC\testing HWDR\testing 01 HWDR in Cs\testing ne1 HWDR in Cs\obj\x86\Debug\testing ne1 HWDR in Cs.pdb
+D:\mine\projects\nural networks\HandWritten Recognation\SRC\testing HWDR\testing 01 HWDR in Cs\testing ne1 HWDR in Cs\bin\Debug\testing ne1 HWDR in Cs.exe
+D:\mine\projects\nural networks\HandWritten Recognation\SRC\testing HWDR\testing 01 HWDR in Cs\testing ne1 HWDR in Cs\bin\Debug\testing ne1 HWDR in Cs.pdb
+D:\mine\projects\nural networks\HandWritten Recognation\SRC\testing HWDR\testing 01 HWDR in Cs\testing ne1 HWDR in Cs\obj\x86\Debug\testing ne1 HWDR in Cs.csprojResolveAssemblyReference.cache
+D:\mine\projects\nural networks\HandWritten Recognation\SRC\testing HWDR\testing 01 HWDR in Cs\testing ne1 HWDR in Cs\obj\x86\Debug\testing_ne1_HWDR_in_Cs.Form1.resources
+D:\mine\projects\nural networks\HandWritten Recognation\SRC\testing HWDR\testing 01 HWDR in Cs\testing ne1 HWDR in Cs\obj\x86\Debug\testing_ne1_HWDR_in_Cs.Properties.Resources.resources
+D:\mine\projects\nural networks\HandWritten Recognation\SRC\testing HWDR\testing 01 HWDR in Cs\testing ne1 HWDR in Cs\obj\x86\Debug\testing ne1 HWDR in Cs.csproj.GenerateResource.Cache
+D:\mine\projects\nural networks\HandWritten Recognation\SRC\testing HWDR\testing 01 HWDR in Cs\testing ne1 HWDR in Cs\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\mine\projects\nural networks\HandWritten Recognation\SRC\testing HWDR\testing 01 HWDR in Cs\testing ne1 HWDR in Cs\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\mine\projects\nural networks\HandWritten Recognation\SRC\testing HWDR\testing 01 HWDR in Cs\testing ne1 HWDR in Cs\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\mine\projects\neural networks\HandWritten Recognation\SRC\testing HWDR\testing 01 HWDR in Cs\testing ne1 HWDR in Cs\obj\x86\Debug\testing ne1 HWDR in Cs.exe
+D:\mine\projects\neural networks\HandWritten Recognation\SRC\testing HWDR\testing 01 HWDR in Cs\testing ne1 HWDR in Cs\obj\x86\Debug\testing ne1 HWDR in Cs.pdb
+\\ARTA\projects\Personal\neural networks\HandWritten Recognation\SRC\testing HWDR\testing 01 HWDR in Cs\testing ne1 HWDR in Cs\obj\x86\Debug\testing ne1 HWDR in Cs.exe
+\\ARTA\projects\Personal\neural networks\HandWritten Recognation\SRC\testing HWDR\testing 01 HWDR in Cs\testing ne1 HWDR in Cs\obj\x86\Debug\testing ne1 HWDR in Cs.pdb
+\\ARTA\projects\Personal\neural networks\HandWritten Recognation\SRC\testing HWDR\testing 01 HWDR in Cs\testing ne1 HWDR in Cs\obj\x86\Debug\ResolveAssemblyReference.cache
+\\ARTA\projects\Personal\neural networks\HandWritten Recognation\SRC\testing HWDR\testing 01 HWDR in Cs\testing ne1 HWDR in Cs\obj\x86\Debug\testing_ne1_HWDR_in_Cs.Form1.resources
+\\ARTA\projects\Personal\neural networks\HandWritten Recognation\SRC\testing HWDR\testing 01 HWDR in Cs\testing ne1 HWDR in Cs\obj\x86\Debug\testing_ne1_HWDR_in_Cs.Properties.Resources.resources
+\\ARTA\projects\Personal\neural networks\HandWritten Recognation\SRC\testing HWDR\testing 01 HWDR in Cs\testing ne1 HWDR in Cs\obj\x86\Debug\GenerateResource.read.1.tlog
+\\ARTA\projects\Personal\neural networks\HandWritten Recognation\SRC\testing HWDR\testing 01 HWDR in Cs\testing ne1 HWDR in Cs\obj\x86\Debug\GenerateResource.write.1.tlog
